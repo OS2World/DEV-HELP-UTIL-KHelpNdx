@@ -1,0 +1,12 @@
+*.exe
+*.a
+*.lib
+*.o
+*.res
+*.log
+*.~rc
+*.~h
+*.d
+*.RWP
+*.bak
+med.lru
